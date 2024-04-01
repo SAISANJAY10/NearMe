@@ -32,8 +32,11 @@ Execute the programs and publish them.
 </head>
 <body>
 <h1 align="center">
-<font color="red"><b>MEDAVAKAM</b></font>
+<font color="red"><b>MEDAVAKKAM</b></font>
 </h1>
+<h3 align="center">
+    <font color="black"><b>SAISANJAY(212223040178)</b></font>
+    </h3>
 <center>
 <img src="Screenshot 2024-03-29 160634.png" usemap="#image-map" height="610" width="1450">
 <map name="#MyCity">
@@ -57,14 +60,14 @@ Execute the programs and publish them.
 </map>
 </center>
 </body>
-</html>
+</html>        
 ```        
 
 
 
 
 ## OUTPUT
-![Screenshot 2024-03-29 164830](https://github.com/SAISANJAY10/NearMe/assets/144228073/5e7f9c5c-0c6d-4a36-baf2-5e1002125aa9)
+![Screenshot 2024-04-01 144532](https://github.com/SAISANJAY10/NearMe/assets/144228073/baa51293-613f-4477-a8d5-3f5ecad47034)
 ![Screenshot 2024-03-29 164840](https://github.com/SAISANJAY10/NearMe/assets/144228073/2e622fbd-f8ef-4ffb-920a-88aacaee71c6)
 ![Screenshot 2024-03-29 164901](https://github.com/SAISANJAY10/NearMe/assets/144228073/d3ff0b1c-5fea-4f1a-9cd2-46b46475392e)
 ![Screenshot 2024-03-29 164911](https://github.com/SAISANJAY10/NearMe/assets/144228073/61a38c9a-ba62-41f1-824e-c0a6f6f85c67)
